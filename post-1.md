@@ -2,7 +2,7 @@
 title: HTML Example
 description: Just some HTML example
 date: 2020-10-30
-recommended_post_title: Post 2
+recommended_post_title: CSS Example
 recommended_post_url: ../post-2/
 layout: layouts/post.njk
 ---
