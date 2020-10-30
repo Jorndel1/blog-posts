@@ -12,7 +12,7 @@ So this is the first post to test that it's working :)
 
 Can you imagen? It's actually working <3
 
->html example
+Here is some HTML code!
 ```html
 <h1>Hello World</h1>
 <p>How are you today?</p>
