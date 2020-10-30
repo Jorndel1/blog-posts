@@ -17,7 +17,8 @@ Let's take a quick look on some CSS code
 }
 .font-size-small{
   font-size: 0.7rem;
-}```
+}
+```
 
 
 ### Font Weight
@@ -27,4 +28,5 @@ Let's take a quick look on some CSS code
 }
 .font-weight-small{
   font-weight: 300;
-}```
+}
+```
