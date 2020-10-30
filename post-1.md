@@ -17,5 +17,4 @@ Can you imagen? It's actually working <3
 ```
 
 
-Learn more?
-[Click Me](../secondpost/)
+Learn more? [Click Me](../secondpost/)
