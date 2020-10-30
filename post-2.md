@@ -9,6 +9,7 @@ layout: layouts/post.njk
 Let's take a quick look on some CSS code
 
 ## Change Fonts
+Here are some simple ways to change ur font
 
 ### Font Size
 ```css
