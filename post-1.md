@@ -2,7 +2,6 @@
 title: First Post
 description: This is a post on My Blog about touchpoints and circling wagons.
 date: 2020-10-30
-tags: post
 layout: layouts/post.njk
 ---
 So this is the first post to test that it's working :)
