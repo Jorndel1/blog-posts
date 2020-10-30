@@ -4,13 +4,19 @@ description: This is a post on My Blog about touchpoints and circling wagons.
 date: 2020-10-30
 tags: post
 layout: layouts/post.njk
-test1: Heia, dette er en test :)
 ---
-# Hello World
+So this is the first post to test that it's working :)
 
-## It's Amazing
+## It's WORKING!
 
-How are you today?
+Can you imagen? It's actually working <3
 
-* Item 1
-* Item 2
+>html example
+```html
+<h1>Hello World</h1>
+<p>How are you today?</p>
+```
+
+
+Learn more?
+[Click Me](../secondpost/)
