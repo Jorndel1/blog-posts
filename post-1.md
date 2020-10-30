@@ -17,6 +17,3 @@ Can you imagen? It's actually working <3
 <h1>Hello World</h1>
 <p>How are you today?</p>
 ```
-
-
-Learn more? [Click Me](../secondpost/)
